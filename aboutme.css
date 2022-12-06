@@ -81,6 +81,10 @@ h2 {
 
 }
 
+p {
+    font-family: 'Ubuntu', sans-serif;   
+}
+
 #iconos2 {
 text-align: center;
 align-items: flex-center;
